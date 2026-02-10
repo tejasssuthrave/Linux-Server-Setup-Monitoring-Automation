@@ -13,6 +13,10 @@ This project demonstrates a Linux server setup with automated monitoring of CPU,
 - Color-coded alerts for CPU, Memory, and Disk usage
 
 ---
+## **Architecture Diagram**
+<img width="1536" height="1024" alt="architecture" src="https://github.com/user-attachments/assets/a5a24b87-9ec5-4623-8167-b9b41e45fdb9" />
+
+---
 
 ## **Features**
 
