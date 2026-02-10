@@ -34,15 +34,14 @@ This project demonstrates a Linux server setup with automated monitoring of CPU,
 
 ---
 
----
-
 ## **How to Use**
 
 1. **Upload scripts to your Linux server (e.g., AWS EC2).**  
 2. **Make the script executable:**
-    chmod +x scripts/update_dashboard.sh
 
-3. **Run the script manually to test:**
+chmod +x scripts/update_dashboard.sh
+
+4. **Run the script manually to test:**
 
 ./scripts/update_dashboard.sh
 
