@@ -53,7 +53,7 @@ crontab -e
 
 5. **Open the dashboard in your browser:**
 
-http://*<your-ec2-public-ip>*/
+http://(your-ec2-public-ip)/
 
 ---
 ## Dependencies
